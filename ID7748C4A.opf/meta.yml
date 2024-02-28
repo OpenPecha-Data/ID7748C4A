@@ -1,0 +1,115 @@
+id: ID7748C4A
+ocr_import_info:
+  source: bdrc
+  software: google_books
+  batch: batch_2022
+  expected_default_language: bo
+  bdrc_scan_id: W29228
+  ocr_info:
+    timestamp: 03/21/23T12:51:08
+    html: html.zip
+    txt: txt.zip
+    images: images.zip
+  op_import_options: {}
+  op_import_version: 0.11.9
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2024-02-28 14:22:36.386011+00:00
+last_modified: 2024-02-28 14:22:36.386018+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W29228
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW29228
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། ཐུབ་བསྟན་རྒྱ་མཚོ།
+  languages:
+  - bo
+  author: ཏཱ་ལའི་བླ་མ ༡༣་ཐུབ་བསྟན་རྒྱ་མཚོ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9504619132587554
+  ocr_word_median_confidence_index: 1.0
+bases:
+  I5594:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5594
+      total_pages: 810
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I5594.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9633649764405827
+  I5595:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5595
+      total_pages: 806
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I5595.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9558416537527181
+  I5596:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5596
+      total_pages: 792
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I5596.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9486945861205799
+  I5597:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5597
+      total_pages: 796
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I5597.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9529522546652804
+  I5598:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5598
+      total_pages: 804
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I5598.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9470979553496516
+  I5599:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5599
+      total_pages: 850
+      volume_number: 6
+      volume_pages_bdrc_intro: 2
+    order: 6
+    base_file: I5599.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.99
+      ocr_word_mean_confidence_index: 0.9374899962547555
+  I5600:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5600
+      total_pages: 662
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I5600.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9437771781368715
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
